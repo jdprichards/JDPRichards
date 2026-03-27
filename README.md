@@ -26,7 +26,7 @@ A cross-platform data processing tool used by research teams to convert and alig
 - Handles multi-sensor datasets with differing sampling rates
 - Built with C#, .NET, Avalonia
 
-👉 [View Repository](https://github.com/jdprichards/neuromap-exporter)
+👉 [View Repository](https://github.com/jdprichards/NeuroMap-Exporter-Dotnet)
 
 ### 🎮 3D Physics & Collision Engine
 Real-time rigid body physics engine built from scratch using DirectX 11, which I completed for my final dissertation project
@@ -35,7 +35,7 @@ Real-time rigid body physics engine built from scratch using DirectX 11, which I
 - GPU shaders written in HLSL
 - Designed from first principles
 
-👉 [View Repository](https://github.com/jdprichards/3d-physics-engine)
+👉 [View Repository](https://github.com/jdprichards/3D-Physics-Engine-Dissertation-Project)
 
 ---
 
