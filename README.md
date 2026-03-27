@@ -28,19 +28,6 @@ A cross-platform data processing tool used by research teams to convert and alig
 
 👉 [View Repository](https://github.com/jdprichards/neuromap-exporter)
 
----
-
-### 🏥 Appatella
-Clinical decision-support web application for knee condition classification and rehabilitation.
-
-- Built with ASP.NET and Blazor
-- Implements research-based classification algorithms
-- Provides targeted physiotherapy recommendations
-
-👉 [View Repository](https://github.com/jdprichards/appatella)
-
----
-
 ### 🎮 3D Physics & Collision Engine
 Real-time rigid body physics engine built from scratch using DirectX 11, which I completed for my final dissertation project
 
